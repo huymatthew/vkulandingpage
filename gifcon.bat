@@ -1,0 +1,1 @@
+python C:\Users\HuyMatthew\Projects\Yard\gifmaker.py %1 %2
